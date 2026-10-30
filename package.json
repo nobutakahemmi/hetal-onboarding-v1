@@ -1,0 +1,15 @@
+{
+  "name": "hetal-onboarding-v1",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Public job pages for Hetal listings. v0 is one page per reference number.",
+  "type": "module",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  }
+}
